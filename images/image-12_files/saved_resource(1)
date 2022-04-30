@@ -1,0 +1,38 @@
+
+var ftGUID_4167864="523203EC1C2809";
+var ftConfID_4167864="0";
+var ftParams_4167864="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_ifb=1&ft_domain=www.holidify.com&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.holidify.com%2F&cachebuster=695032.027077273";
+var ftKeyword_4167864="";
+var ftCustom_4167864="";
+var ftSection_4167864="";
+var ftSegment_4167864="aixh";
+var ftSegmentList_4167864=[{s:'aixh'}];
+var ftRuleMatch_4167864="0";
+var ftTimestamp_4167864="1651291279";
+var ftGeoC2_4167864="in";
+var ftGeoState_4167864="kl";
+var ftGeoCity_4167864="thiruvananthapuram";
+var ftISP_4167864="asianet";
+var ftSpeed_4167864="cable";
+var ftDMA_4167864="-1";
+var ftLong_4167864="76.96";
+var ftLat_4167864="8.52";
+var ftPostal_4167864="695003";
+var ftTimeZone_4167864="530";
+var ftMobileCarrier_4167864="";
+var ftImp4167864 = {};
+ftImp4167864.privacy = "x";
+ftImp4167864.guidAge = "1";
+ftImp4167864.impID = "545BA2D3-DBCF-E51F-C8F1-939032DF24F2";
+ftImp4167864.duid = "FT:523203EC1C2809";
+
+ftImp4167864.ft_tpplid = "";
+ftImp4167864.ft_c = {};
+ftImp4167864.gdpr = "";
+ftImp4167864.gdpr_consent = "";
+ftImp4167864.gdpr_pd = "";
+ftImp4167864.oob_consent = "";
+ftImp4167864.gdprStoredConsent = "";
+ftImp4167864.us_privacy = "";
+
+document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/416/4167864/3873387/js/j-4167864-3873387.js" id="ftscript_m4167864" name="ftscript_m4167864"></scr'+'ipt>');

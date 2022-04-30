@@ -1,0 +1,47 @@
+jsonp_callback_2({
+    "id": "74738636-4320-4a1a-8258-c6a95db26a9b_desktop_interstitial_default_checkbox",
+    "redirectBaseID": "74738636-4320-4a1a-8258-c6a95db26a9b_desktop_interstitial_redirect_base",
+    "redirectBase": "https://www.clicktripz.com/",
+    "userSearchHistory": [
+        {
+            "timestamp": 1651291384
+        }
+    ],
+    "isPseudoPopUnderRedirecting": false,
+    "isEdgeBroken": false,
+    "serverTimestamp": 1651292872,
+    "searchKey": "5585241feb900b59d09720df02836dfd",
+    "recommendedDisplayMode": "tabbed",
+    "auctionType": 100,
+    "providers": [
+        {
+            "name": "KAYAK",
+            "smallThumb": "https://images.clicktripz.com/1_15517266442817.png",
+            "mediumThumb": "https://images.clicktripz.com/1_15348693559815.png",
+            "smallAltThumb": "https://images.clicktripz.com/1_1533680401356.png",
+            "checked": true,
+            "hidden": false,
+            "id": "74738636-4320-4a1a-8258-c6a95db26a9b_desktop_interstitial_provider_1",
+            "redirectID": "9070483061",
+            "windowName": "ct_window_5964",
+            "campaignID": "74738636-4320-4a1a-8258-c6a95db26a9b_desktop_interstitial_provider_1_5964",
+            "campaign": "5964",
+            "campaignType": "1",
+            "ifb": false
+        }
+    ],
+    "strategy": {
+        "publisherId": 3386,
+        "auction_id": "783f2c15-454a-448c-85e9-259558f780bf",
+        "creative_strategy_id": 10,
+        "search_display_type": 1,
+        "searchParams": {
+            "type": 1,
+            "city": "Idukki, Kerala, India",
+            "checkInDate": "05/01/2022",
+            "checkOutDate": "05/02/2022",
+            "guests": 1,
+            "rooms": 1
+        }
+    }
+})

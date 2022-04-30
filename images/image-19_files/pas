@@ -1,0 +1,92 @@
+jsonp_callback_1({
+    "id": "1d9488e1-76e1-4d4c-b0a5-8143b92c6b63_desktop_popunder_default_checkbox",
+    "redirectBaseID": "1d9488e1-76e1-4d4c-b0a5-8143b92c6b63_desktop_popunder_redirect_base",
+    "redirectBase": "https://www.clicktripz.com/",
+    "userSearchHistory": [
+        {
+            "timestamp": 1651291248
+        }
+    ],
+    "isPseudoPopUnderRedirecting": false,
+    "isEdgeBroken": false,
+    "serverTimestamp": 1651292872,
+    "searchKey": "db080623627e814f0bb0ad624cbd1ed8",
+    "recommendedDisplayMode": "tabbed",
+    "auctionType": 100,
+    "providers": [
+        {
+            "name": "Booking.com",
+            "smallThumb": "https://images.clicktripz.com/8_15517266691743.png",
+            "mediumThumb": "https://images.clicktripz.com/8_15348699892384.png",
+            "smallAltThumb": "https://images.clicktripz.com/8_15357438671587.png",
+            "checked": true,
+            "hidden": false,
+            "id": "1d9488e1-76e1-4d4c-b0a5-8143b92c6b63_desktop_popunder_provider_1",
+            "redirectID": "1050856015",
+            "windowName": "ct_window_16687",
+            "campaignID": "1d9488e1-76e1-4d4c-b0a5-8143b92c6b63_desktop_popunder_provider_1_16687",
+            "campaign": "16687",
+            "campaignType": "1",
+            "ifb": false
+        },
+        {
+            "name": "KAYAK",
+            "smallThumb": "https://images.clicktripz.com/1_15517266442817.png",
+            "mediumThumb": "https://images.clicktripz.com/1_15348693559815.png",
+            "smallAltThumb": "https://images.clicktripz.com/1_1533680401356.png",
+            "checked": true,
+            "hidden": false,
+            "id": "1d9488e1-76e1-4d4c-b0a5-8143b92c6b63_desktop_popunder_provider_2",
+            "redirectID": "2000773061",
+            "windowName": "ct_window_5965",
+            "campaignID": "1d9488e1-76e1-4d4c-b0a5-8143b92c6b63_desktop_popunder_provider_2_5965",
+            "campaign": "5965",
+            "campaignType": "1",
+            "ifb": false
+        },
+        {
+            "name": "Hotelscombined",
+            "smallThumb": "https://images.clicktripz.com/27042_16322657323606.png",
+            "mediumThumb": "https://images.clicktripz.com/27042_16322657336018.png",
+            "smallAltThumb": "https://images.clicktripz.com/27042_16322657325566.png",
+            "checked": true,
+            "hidden": false,
+            "id": "1d9488e1-76e1-4d4c-b0a5-8143b92c6b63_desktop_popunder_provider_3",
+            "redirectID": "9080121051",
+            "windowName": "ct_window_27042",
+            "campaignID": "1d9488e1-76e1-4d4c-b0a5-8143b92c6b63_desktop_popunder_provider_3_27042",
+            "campaign": "27042",
+            "campaignType": "1",
+            "ifb": false
+        },
+        {
+            "name": "Momondo",
+            "smallThumb": "https://images.clicktripz.com/166_15517267816104.png",
+            "mediumThumb": "https://images.clicktripz.com/166_15251287352080.png",
+            "smallAltThumb": "https://images.clicktripz.com/166_15517268285036.png",
+            "checked": false,
+            "hidden": false,
+            "id": "1d9488e1-76e1-4d4c-b0a5-8143b92c6b63_desktop_popunder_provider_4",
+            "redirectID": "3000266073",
+            "windowName": "ct_window_21293",
+            "campaignID": "1d9488e1-76e1-4d4c-b0a5-8143b92c6b63_desktop_popunder_provider_4_21293",
+            "campaign": "21293",
+            "campaignType": "1",
+            "ifb": false
+        }
+    ],
+    "strategy": {
+        "publisherId": 3167,
+        "auction_id": "a825df0e-cf84-4394-9958-2cb7fcf587b5",
+        "creative_strategy_id": 10,
+        "search_display_type": 1,
+        "searchParams": {
+            "type": 1,
+            "city": "Idukki, Kerala, India",
+            "checkInDate": "05/01/2022",
+            "checkOutDate": "05/02/2022",
+            "guests": 1,
+            "rooms": 1
+        }
+    }
+})
